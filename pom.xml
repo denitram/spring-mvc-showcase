@@ -16,7 +16,7 @@
 	<scm>
         <!-- HTTPS -->
         <connection>scm:git:https://github.com/denitram/spring-mvc-showcase.git</connection>
-        <developerConnection>scm:git:https://github.com:rivm-syso/storybuilder</developerConnection>
+        <developerConnection>scm:git:https://github.com/denitram/spring-mvn-showcase</developerConnection>
     </scm>
 	<dependencies>
 		<!-- Spring -->
