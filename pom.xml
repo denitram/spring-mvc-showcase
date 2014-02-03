@@ -13,6 +13,12 @@
 		<org.aspectj-version>1.6.10</org.aspectj-version>
 		<org.slf4j-version>1.6.1</org.slf4j-version>
 	</properties>
+
+	<scm>
+        <!-- HTTPS -->
+        <connection>scm:git:https://github.com/denitram/spring-mvc-showcase.git</connection>
+        <developerConnection>scm:git:https://github.com:rivm-syso/storybuilder</developerConnection>
+    </scm>
 	<dependencies>
 		<!-- Spring -->
 		<dependency>
